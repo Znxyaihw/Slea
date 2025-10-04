@@ -8,7 +8,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
 -- 🧠 Configure aqui o nome do dono do jogo (você):
-local DonoDoJogo = "SeuNomeAqui" -- << coloque seu nome exato no Roblox
+local DonoDoJogo = "JONATHA132820" -- << coloque seu nome exato no Roblox
 
 if LocalPlayer.Name ~= DonoDoJogo then
     return -- impede que outros jogadores usem o script
